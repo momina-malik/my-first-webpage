@@ -138,6 +138,12 @@ a:hover{
     width: 120px;
     margin: auto;
     border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.button2:hover{
+    color: black;
+    background-color: gold;
 }
 .footer{
     color: white;
